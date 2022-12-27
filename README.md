@@ -1,7 +1,6 @@
 # odin-recipes
-TOP Project: Recipes
+TOP Project: Recipes-CSS
 
-Create a recipe website using only basic html skills learned in 
-The Odin Project (TOP). 
-CSS will be used later to style the website.
+TOP project #2:
+Add CSS to Recipes html project using external CSS file (styles.css).
 
